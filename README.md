@@ -1,2 +1,1 @@
-# pikmin_classic
- 
+The original version of the Pikmin addon for Garry's Mod
