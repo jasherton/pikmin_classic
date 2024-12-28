@@ -1,0 +1,93 @@
+"21"
+{
+	"Information"
+	{
+		"name"		"Pikmin"
+	}
+	"Entries"
+	{
+		"1"
+		{
+			"model"		"models/pikmin/Pikmin_red1.mdl"
+		}
+		"2"
+		{
+			"model"		"models/pikmin/Pikmin_red2.mdl"
+		}
+		"3"
+		{
+			"model"		"models/pikmin/Pikmin_red3.mdl"
+		}
+		"4"
+		{
+			"model"		"models/pikmin/Pikmin_yellow1.mdl"
+		}
+		"5"
+		{
+			"model"		"models/pikmin/Pikmin_yellow2.mdl"
+		}
+		"6"
+		{
+			"model"		"models/pikmin/Pikmin_yellow3.mdl"
+		}
+		"7"
+		{
+			"model"		"models/pikmin/Pikmin_blue1.mdl"
+		}
+		"8"
+		{
+			"model"		"models/pikmin/Pikmin_blue2.mdl"
+		}
+		"9"
+		{
+			"model"		"models/pikmin/Pikmin_blue3.mdl"
+		}
+		"10"
+		{
+			"model"		"models/pikmin/Pikmin_purple1.mdl"
+		}
+		"11"
+		{
+			"model"		"models/pikmin/Pikmin_purple2.mdl"
+		}
+		"12"
+		{
+			"model"		"models/pikmin/Pikmin_purple3.mdl"
+		}
+		"13"
+		{
+			"model"		"models/pikmin/Pikmin_white1.mdl"
+		}
+		"14"
+		{
+			"model"		"models/pikmin/Pikmin_white2.mdl"
+		}
+		"15"
+		{
+			"model"		"models/pikmin/Pikmin_white3.mdl"
+		}
+		"16"
+		{
+			"model"		"models/weapons/w_olimar.mdl"
+		}
+		"17"
+		{
+			"model"		"models/pikmin/Onion.mdl"
+		}
+		"18"
+		{
+			"model"		"models/Pikmin/Pellet_1.mdl"
+		}
+		"19"
+		{
+			"model"		"models/pikmin/Pellet_5.mdl"
+		}
+		"20"
+		{
+			"model"		"models/pikmin/Pellet_10.mdl"
+		}
+		"21"
+		{
+			"model"		"models/pikmin/Pellet_20.mdl"
+		}
+}

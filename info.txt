@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Pikmin"
+	"version"			"0.01"
+	"up_date"			"N/A"
+	"author_name"		"Aska"
+	"author_email"		"dumyd@cox.net"
+	"author_url"		"N/A"
+	"info"				"Pikmin Addon"
+}
